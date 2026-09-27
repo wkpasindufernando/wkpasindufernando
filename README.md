@@ -8,13 +8,10 @@
 
 
 
-- 🔭 I’m currently working on **ML Projects**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **wkpasindufernando@protonmail.com**
 
-- ⚡**Call me as Nova**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wkpasindufernando&label=Profile%20views&color=0e75b6&style=flat" alt="wkpasindufernando" /> </p>
   <!--horizontal divider(gradiant)-->
